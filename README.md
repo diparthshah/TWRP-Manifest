@@ -6,6 +6,9 @@
 ````
 repo init -u https://github.com/diparthshah/TWRP-manifest.git -b master
 ````
+```````
+repo sync 
+```````
 BUILDING IT FOR GIONEE M2 
 
 $ cd [twrp source which synced from above]
