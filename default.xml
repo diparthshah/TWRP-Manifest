@@ -123,5 +123,5 @@
   <project path="vendor/omni" name="android_vendor_omni" remote="omnirom" revision="android-5.1" />
   
   <!-- Device -->
-  <project path="device/gionee/m2" name="diparthshah/twrp_gionee_m2" remote="github" revision="master" />
+  <project path="device/gionee/m2" name="diparthshah/recovery_gionee_m2" remote="github" revision="twrp" />
 </manifest>
